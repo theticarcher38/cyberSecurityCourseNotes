@@ -12,7 +12,7 @@ Desktop/Activities/A233_Files/PacketCapture_A233
 
 * MAC Addresses are recorded in hexadecimal. This is base 16. The digits in hexadecimal are:
 
-```
+```bash
 0, 1, 2, 3, 4, 5, 6, 7, 8 , 9, a, b, c, d, e, f
 ```
 
@@ -22,4 +22,13 @@ In the packet list pane, use one of the following methods to locate packet 546:
 
 * Scroll to the packet in the packet list.
 * Select **Go -> Go To Packet**... or type *Ctrl + G*.
-    * Then type s46 and press the Enter Key.
+    * Then type 546 and press the Enter Key.
+The MAC Address for packet 546 is:
+
+```bash
+00:22:fa:1c:eb:e6
+```
+
+## Hexdump?
+
+A hexdump is a utility that displays computer data in hexadecimal.
