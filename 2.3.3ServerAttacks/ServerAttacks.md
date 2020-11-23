@@ -4,7 +4,7 @@
 
 1. Start Wireshark 
 
-```bash
+```
 Open: Desktop/Activities/A233_Files/PacketCapture_A233
 ```
 
@@ -12,7 +12,7 @@ Open: Desktop/Activities/A233_Files/PacketCapture_A233
 
 * MAC Addresses are recorded in hexadecimal. This is base 16.
 
-```bash
+```
 The hexadecimal digits are: 0, 1, 2, 3, 4, 5, 6, 7, 8 , 9, a, b, c, d, e, f
 ```
 
@@ -24,7 +24,7 @@ In the packet list pane, use one of the following methods to locate packet 546:
 * Select **Go -> Go To Packet**... or type *Ctrl + G*.
     * Then type 546 and press the Enter Key.
 
-```bash
+```
 The MAC Address for packet 546 is: 00:22:fa:1c:eb:e6
 ```
 
