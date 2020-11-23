@@ -15,3 +15,11 @@ Desktop/Activities/A233_Files/PacketCapture_A233
 ```
 0, 1, 2, 3, 4, 5, 6, 7, 8 , 9, a, b, c, d, e, f
 ```
+
+## Finding Packets in Wireshark
+
+In the packet list pane, use one of the following methods to locate packet 546:
+
+* Scroll to the packet in the packet list.
+* Select **Go -> Go To Packet**... or type *Ctrl + G*.
+    * Then type s46 and press the Enter Key.
